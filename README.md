@@ -7,7 +7,7 @@
 **To access to the solutions / notes / files that the teaching team uploades**, clone the repo on your local machine:
 
 ```
-$ git clone https://github.com/ironhack-datalabs/data-pt-ber-08-20
+$ git clone https://github.com/ironhack-datalabs/data-pt-ber-08-20.git
 ```
 
 By doing that you'll be syncronized with this repo and you'll be able to pull the updates. Here you will not be able to push, so in order to do the labs we want to fork the repo. 
