@@ -1,4 +1,13 @@
-Hi, this is Daniel Quer. I am 28 years old, I work as a Senior BI Analyst at Foodspring. I have been using SQL since August 2017, and actively contributing to data modeling since June 2019.
-I haven't been to the course yet unfortunately, but I am very excited to meet my peers and of course the teachers of the Data Part-Time Analytics Course at Ironhack.
+# Who am I
 
-I love sunny days.
+* I am from Barcelona, Spain
+* I work at Foodspring as a Senior Business Intelligence Analyst. I have been working with Data since June 2017, and actively contributing to data modeling since July 2019.
+
+# Why am I here
+
+* I am in this course because I want to master the use of Python for the purpose of helping my fellow Data Engineers and Data Scientists in their ETL and Data Science projects.
+
+# What will I do after the bootcamp?
+
+* Probably, one year after the bootcamp I would like to dedicate my efforts to an industry where my expertise is put to generate a positive social effect.
+* My ideal future role is to lead a team of analysts, data engineers and data scientists towards the goal of a positive social effect. I need to find the company that suits to that and is in the need of such profile.
